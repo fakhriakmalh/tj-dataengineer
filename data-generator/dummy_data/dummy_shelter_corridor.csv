@@ -1,0 +1,40 @@
+shelter_name_var,corridor_code,corridor_name
+Shelter Tosari 1,KRW,Karawaci - Bundaran Senayan
+Terminal Grogol 2,KRW,Karawaci - Bundaran Senayan
+Terminal Senayan 3,KRW,Karawaci - Bundaran Senayan
+Halte Pulogadung 4,KRW,Karawaci - Bundaran Senayan
+Terminal Ancol 1,SMB,Sumber Batu - Harmoni
+Halte Cempaka Putih 2,SMB,Sumber Batu - Harmoni
+Terminal Grogol 3,SMB,Sumber Batu - Harmoni
+Terminal Matraman 1,LGS,Lebak Bulus - Grogol
+Shelter Matraman 2,LGS,Lebak Bulus - Grogol
+Shelter Pulogadung 3,LGS,Lebak Bulus - Grogol
+Terminal Ragunan 4,LGS,Lebak Bulus - Grogol
+Shelter Dukuh Atas 1,BRT,Blok M - Ragunan - Tanah Abang
+Halte Matraman 2,BRT,Blok M - Ragunan - Tanah Abang
+Halte Pesing 3,BRT,Blok M - Ragunan - Tanah Abang
+Halte Ragunan 1,TJK,Tangerang - Jakarta Kota
+Shelter Matraman 2,TJK,Tangerang - Jakarta Kota
+Halte Monas 3,TJK,Tangerang - Jakarta Kota
+Shelter Pulogadung 4,TJK,Tangerang - Jakarta Kota
+Terminal Kalideres 5,TJK,Tangerang - Jakarta Kota
+Halte Matraman 1,BKS,Bekasi - Cempaka Putih
+Halte Cawang 2,BKS,Bekasi - Cempaka Putih
+Halte Lebak Bulus 3,BKS,Bekasi - Cempaka Putih
+Shelter Tosari 1,DPK,Depok - Plaza Senayan
+Shelter CSW 2,DPK,Depok - Plaza Senayan
+Terminal Senen 3,DPK,Depok - Plaza Senayan
+Shelter Lebak Bulus 4,DPK,Depok - Plaza Senayan
+Halte Senen 5,DPK,Depok - Plaza Senayan
+Shelter Dukuh Atas 1,TNJ,Tanjung Priok - Senen
+Halte Dukuh Atas 2,TNJ,Tanjung Priok - Senen
+Terminal Tanjung Priok 3,TNJ,Tanjung Priok - Senen
+Terminal Cawang 4,TNJ,Tanjung Priok - Senen
+Shelter Ragunan 1,PSR,Pasar Minggu - Kota
+Terminal Cawang 2,PSR,Pasar Minggu - Kota
+Shelter Kampung Melayu 3,PSR,Pasar Minggu - Kota
+Shelter Senen 4,PSR,Pasar Minggu - Kota
+Halte Cempaka Putih 1,CKR,Cikarang - Rawamangun
+Shelter Ancol 2,CKR,Cikarang - Rawamangun
+Shelter Monas 3,CKR,Cikarang - Rawamangun
+Terminal Harmoni 4,CKR,Cikarang - Rawamangun

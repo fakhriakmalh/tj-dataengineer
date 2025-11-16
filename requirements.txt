@@ -1,0 +1,7 @@
+pandas
+pyarrow
+sqlalchemy
+clickhouse-connect
+clickhouse-driver
+pymysql
+# apache-airflow-providers-mysql
