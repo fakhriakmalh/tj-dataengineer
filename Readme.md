@@ -151,16 +151,12 @@ bus-transaction-etl/
 # 1. Build custom Docker image
 docker build -t apache/airflow:2.9.3-custom .
 
-# 2. Initialize Airflow
-docker-compose up airflow-init
+# 2. Start all services
+docker-compose -f docker-compose-airflow up -d 
 
-# 3. Start all services
-docker-compose up -d
-
-# 4. Access Airflow UI
+# 3. Access Airflow UI
 open http://localhost:8080
 
-# 5. Setup connections (see detailed steps below)
 ```
 
 ### **Detailed Setup Steps**
